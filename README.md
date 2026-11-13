@@ -24,7 +24,7 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [🔧 Newtonite Ops](https://github.com/Nitin31804/newtonite-ops-23131011430) | High-concurrency internal ops platform with idempotency leases, state machines & transactional outbox | TypeScript · React 19 · Express |
+| [🔧 Newtonite Ops](https://github.com/Nitin31804/newtonite-ops) | High-concurrency internal ops platform with idempotency leases, state machines & transactional outbox | TypeScript · React 19 · Express |
 | [📈 Real-Time Stock Pipeline](https://github.com/Nitin31804/real-time-stock-data-pipeline) | Kafka + PySpark streaming pipeline → OHLCV candles served via Flask dashboard | Python · Kafka · PySpark · Docker |
 | [🤖 Alia AI Companion](https://github.com/Nitin31804/alia-ai-companion) | Multimodal AI companion with 3D VRM avatar, streamed LLM chat, and voice interaction | JS · Three.js · Groq · Gemini · WebSockets |
 | [🌦️ Jena Climate Forecaster](https://github.com/Nitin31804/jena-climate-forecaster) | SARIMA vs Temporal Fusion Transformer for temperature forecasting with uncertainty estimates | Python · PyTorch · Jupyter |
