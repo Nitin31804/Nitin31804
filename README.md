@@ -86,3 +86,13 @@
 <p align="center">
   <i>"Build things that are correct before they are fast, and documented before they are deployed."</i>
 </p>
+
+---
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nitin31804/Nitin31804/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nitin31804/Nitin31804/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Nitin31804/Nitin31804/output/github-snake.svg" />
+</picture>
